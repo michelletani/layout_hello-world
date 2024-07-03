@@ -23,4 +23,3 @@ Make sure that you installed all the required VSCode extensions:
 - EditorConfig (last version)
 - StyleLint (last version)
 - LintHTML (last version)
- 
